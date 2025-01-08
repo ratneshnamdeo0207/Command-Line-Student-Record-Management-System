@@ -30,10 +30,10 @@ Before using this project, ensure that you have the following installed:
 ---
 
 ## Acknowledgements
-- **MySQL for database management.
-- **Java for building the application and connecting to the database.
-- **JDBC for database connectivity in Java.
+- MySQL for database management.
+- Java for building the application and connecting to the database.
+- JDBC for database connectivity in Java.
 ## Contact
-- **Ratnesh Namdeo
-- **Email: ratneshnamdeo0207@gmail.com
-- **GitHub: @ratneshnamdeo0207
+- Ratnesh Namdeo
+- Email: ratneshnamdeo0207@gmail.com
+- GitHub: @ratneshnamdeo0207
